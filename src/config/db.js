@@ -7,9 +7,7 @@ import logger from "../utils/logger.js";
 const connectDB = async () => {
   try {
     // TODO: Put this to .env
-    const conn = await mongoose.connect(
-      "mongodb+srv://smartbits:smartbits@smartbits.ehvtj89.mongodb.net/dev"
-    );
+    const conn = await mongoose.connect(MONGO_URI);
     logger.info(
       `MongoDB Connected: ${conn.connection.host}:${conn.connection.port}`
     );
