@@ -1,0 +1,88 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:45:42"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:51:37"}
+{"level":"error","message":"Error connecting to MongoDB: 804C18F701000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n","timestamp":"2025-06-27 13:51:45"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:52:11"}
+{"level":"error","message":"Error connecting to MongoDB: 804C18F701000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n","timestamp":"2025-06-27 13:52:17"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:52:25"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:52:28"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:52:58"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:03"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:08"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:11"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:53:13"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:21"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:53:26"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:33"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:37"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:53:45"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:55"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:53:59"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:04"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:06"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:09"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:22"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:25"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:29"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:31"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:35"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:37"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:45"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:47"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:53"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:56"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:55:15"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:55:18"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:55:20"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:55:23"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:55:32"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:55:33"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:55:41"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:55:42"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:55:45"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:56:27"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:56:30"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:00"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:03"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:04"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:07"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:10"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:13"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:21"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:23"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:35"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:36"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:51"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:56"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:58:02"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:58:04"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:58:23"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:58:26"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:58:54"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:58:56"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:59:10"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:59:12"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:59:23"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:59:24"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:59:29"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:59:30"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:59:46"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:59:48"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:00:33"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:00:36"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:00:39"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:00:40"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:01:43"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:01:44"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:01:57"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:01:59"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:03:47"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:03:52"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:03:56"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:03:56"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:03:57"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:03:59"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:04:09"}
+{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:04:16"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:04:37"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:04:44"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:04:47"}
