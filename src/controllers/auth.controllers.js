@@ -1,34 +1,56 @@
 /** @format */
 
+import bcrypt from "bcryptjs";
 import { User } from "../model/user.model.js";
-import logger from "../utils/logger.js";
 import { generateToken } from "../utils/tokens.js";
 
-export const auth = async (req, res) => {
+export const login = async (req, res) => {
   try {
-    const { email } = req.body;
-    if (!email) {
-      return res.status(400).json({ error: "Email is required" });
-    }
-    // Check if user exists
-    let user = await User.findOne({ email });
-    if (!user) {
-      user = await User.create({
-        email,
+    const { email, password } = req.body;
+
+    if (!email || !password) {
+      return res.status(400).json({
+        success: false,
+        message: "Please provide both email and password",
       });
     }
-    const response_user = await User.findById(user._id);
-    const token = generateToken(response_user);
+
+    const user = await User.findOne({ email }).select("+password");
+    if (!user) {
+      return res.status(401).json({
+        success: false,
+        message: "Invalid email, role or password",
+      });
+    }
+
+    const isMatch = await bcrypt.compare(password, user.password);
+    if (!isMatch) {
+      return res.status(401).json({
+        success: false,
+        message: "Invalid email, role or password",
+      });
+    }
+
+    const token = generateToken(user);
+
     return res.status(200).json({
       success: true,
-      user: response_user,
+      message: "Login successful",
       token,
+      user: {
+        id: user._id,
+        name: user.name,
+        email: user.email,
+        role: user.role,
+        designation: user.designation,
+        organisationId: user.organisationId,
+      },
     });
   } catch (error) {
-    logger.error("Error in auth controller:", error);
+    console.error("Login error:", error);
     return res.status(500).json({
       success: false,
-      error: "Internal server error",
+      message: "Server error",
     });
   }
 };

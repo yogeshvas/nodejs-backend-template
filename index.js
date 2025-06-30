@@ -13,7 +13,12 @@ app.use(express.urlencoded({ extended: true }));
 
 // routes
 import authRoutes from "./src/routes/auth.routes.js";
+import orgRoutes from "./src/routes/organisation.routes.js";
+import userRoutes from "./src/routes/user.routes.js";
+
 app.use("/api/auth", authRoutes);
+app.use("/api/organisation", orgRoutes);
+app.use("/api/users", userRoutes);
 const startServer = async () => {
   try {
     connectDB();

@@ -1,88 +1,164 @@
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:45:42"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:51:37"}
-{"level":"error","message":"Error connecting to MongoDB: 804C18F701000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n","timestamp":"2025-06-27 13:51:45"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:52:11"}
-{"level":"error","message":"Error connecting to MongoDB: 804C18F701000000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n","timestamp":"2025-06-27 13:52:17"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:52:25"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:52:28"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:52:58"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:03"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:08"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:11"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:53:13"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:21"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:53:26"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:33"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:37"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:53:45"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:53:55"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:53:59"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:04"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:06"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:09"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:22"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:25"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:29"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:31"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:35"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:37"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:45"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:47"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:54:53"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:54:56"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:55:15"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:55:18"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:55:20"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:55:23"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:55:32"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:55:33"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:55:41"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:55:42"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:55:45"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:56:27"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:56:30"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:00"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:03"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:04"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:07"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:10"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:13"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:21"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:23"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:35"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:36"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:57:51"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:57:56"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:58:02"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:58:04"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:58:23"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:58:26"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:58:54"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:58:56"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:59:10"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:59:12"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:59:23"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:59:24"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:59:29"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-00.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:59:30"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 13:59:46"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 13:59:48"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:00:33"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:00:36"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:00:39"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:00:40"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:01:43"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:01:44"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:01:57"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-02.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:01:59"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:03:47"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:03:52"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:03:56"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:03:56"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:03:57"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:03:59"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:04:09"}
-{"level":"info","message":"MongoDB Connected: ac-iksx6gt-shard-00-01.ehvtj89.mongodb.net:27017","timestamp":"2025-06-27 14:04:16"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:04:37"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:04:44"}
-{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-27 14:04:47"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 05:21:38"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 05:21:39"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 05:21:48"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 05:21:49"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 05:21:49"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 05:23:55"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 05:23:56"}
+{"level":"info","message":{"__v":0,"_id":"686080ca60e01638a050e0a0","name":"Visitflow"},"timestamp":"2025-06-29 05:24:50"}
+{"level":"error","message":"Failed to send password email to yogeshytvashisth@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-74af558914dsm5644331b3a.78 - gsmtp","timestamp":"2025-06-29 05:24:53"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 05:25:42"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 05:25:43"}
+{"level":"info","message":{"__v":0,"_id":"686081123beed5d948635991","name":"Visitflow"},"timestamp":"2025-06-29 05:26:02"}
+{"level":"error","message":"Failed to send password email to yogeshytvashisth@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23acb3bc037sm46166025ad.196 - gsmtp","timestamp":"2025-06-29 05:26:05"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 05:26:24"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 05:26:25"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 05:26:30"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 05:26:31"}
+{"level":"info","message":{"__v":0,"_id":"6860813a44404f3f57fbe77c","name":"Visitflow"},"timestamp":"2025-06-29 05:26:42"}
+{"level":"error","message":"Failed to send password email to yogeshytvashisth@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-315f5382e7csm10461386a91.2 - gsmtp","timestamp":"2025-06-29 05:26:44"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 05:27:40"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 05:27:41"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 05:32:57"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 05:32:58"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:19:44"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:19:45"}
+{"level":"info","message":{"__v":0,"_id":"6860fe2f28f9c3458e0d8fdf","name":"Visitflow"},"timestamp":"2025-06-29 14:19:51"}
+{"level":"error","message":"Failed to send password email to yogeshytvashisth@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-23acb3b7a3asm55542595ad.170 - gsmtp","timestamp":"2025-06-29 14:19:54"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:20:06"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:20:07"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:20:18"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:20:19"}
+{"level":"info","message":{"__v":0,"_id":"6860fe6453ae2cf66bffd955","name":"Visitflow"},"timestamp":"2025-06-29 14:20:44"}
+{"level":"error","message":"Failed to send password email to yogeshytvashisth@gmail.com: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to\n535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-315e8497922sm5443246a91.1 - gsmtp","timestamp":"2025-06-29 14:20:46"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:22:03"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:22:07"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:22:08"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:22:14"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:22:15"}
+{"level":"info","message":{"__v":0,"_id":"6860fed685089e7df4545a20","name":"Visitflow"},"timestamp":"2025-06-29 14:22:38"}
+{"level":"info","message":"Password email sent to yogeshytvashisth@gmail.com: <678df1df-4b08-1c2a-abaa-a47a356e6fee@gmail.com>","timestamp":"2025-06-29 14:22:42"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:44:53"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:44:54"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:45:22"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:45:23"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:46:23"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:46:24"}
+{"level":"info","message":{"__v":0,"_id":"6861047a84fabc30371d2a30","name":"Visitflow"},"timestamp":"2025-06-29 14:46:42"}
+{"level":"info","message":"Password email sent to yogeshytvashisth@gmail.com: <5522e9c2-abe8-5d47-2066-63f4a04f5039@gmail.com>","timestamp":"2025-06-29 14:46:46"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:54:28"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:54:29"}
+{"level":"info","message":{"__v":0,"_id":"6861064f162e88b2124b2e59","name":"Visitflow"},"timestamp":"2025-06-29 14:54:31"}
+{"level":"info","message":"Password email sent to yogeshytvashisth@gmail.com: <a6e560ad-63c0-cafd-e996-13439c6247f3@gmail.com>","timestamp":"2025-06-29 14:54:34"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:55:12"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:55:13"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:55:14"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:56:15"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:56:16"}
+{"level":"info","message":{"__v":0,"_id":"686106c6c0ecff6c1331ba16","name":"Visitflow"},"timestamp":"2025-06-29 14:56:30"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:57:36"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:57:37"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-29 14:57:47"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-29 14:57:47"}
+{"level":"info","message":{"__v":0,"_id":"68610720c334e30fc8680740","name":"Visitflow"},"timestamp":"2025-06-29 14:58:00"}
+{"level":"info","message":"Admin credentials email sent to yogeshytvashisth@gmail.com: <33a4d4f2-595f-d480-e7c6-142b2708e2b7@gmail.com>","timestamp":"2025-06-29 14:58:04"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:17:28"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:17:28"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:17:31"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:17:32"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:17:33"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:17:34"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:17:44"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:17:45"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:17:51"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:17:52"}
+{"level":"info","message":{"__v":0,"_id":"686208f7b66b4e4b9a9dffa6","name":"Visitflow"},"timestamp":"2025-06-30 09:18:08"}
+{"level":"info","message":"Admin credentials email sent to yogeshytvashisth@gmail.com: <0cfdca75-3fe2-18e4-9c31-1da72a4eaf3a@gmail.com>","timestamp":"2025-06-30 09:18:14"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:18:41"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:18:43"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:18:44"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:19:24"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:19:24"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:20:46"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:20:47"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:20:52"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:20:53"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:21:13"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:21:13"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:27:42"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:27:43"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:28:58"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:28:59"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:29:40"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:29:41"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:30:32"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:30:33"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:30:34"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:30:35"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:31:05"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:31:06"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:31:21"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:31:22"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:31:39"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:31:40"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:32:02"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:32:02"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 09:33:01"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 09:33:02"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:01:24"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:01:26"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:05:24"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:05:25"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:05:32"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:05:33"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:05:36"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:05:37"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:11:47"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:11:48"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:12:07"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:12:08"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:12:09"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:12:10"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:12:10"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:12:55"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:12:55"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:12:56"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:13:03"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:13:04"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:13:58"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:13:59"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:14:10"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:14:11"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:14:13"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:14:14"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:14:15"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:14:15"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:14:58"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:15:00"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:20:05"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:20:06"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:21:54"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:21:55"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:21:58"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:21:59"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:29:52"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:29:53"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:30:19"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:30:19"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:30:21"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:30:22"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:30:31"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:30:31"}
+{"level":"info","message":"User credentials email sent to writetokhair@gmail.com: <47376e98-9731-538a-8917-80fba92dda12@gmail.com>","timestamp":"2025-06-30 10:30:36"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:32:17"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:32:18"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:32:30"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:32:31"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:32:31"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:35:18"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-02.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:35:18"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 10:35:21"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-00.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 10:35:22"}
+{"level":"info","message":"User credentials email sent to writetokhair@gmail.com: <58270d3c-066a-1b18-8933-d27589e1ea3b@gmail.com>","timestamp":"2025-06-30 10:35:44"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-06-30 11:14:41"}
+{"level":"info","message":"MongoDB Connected: ac-jvgldcr-shard-00-01.z2q5o5x.mongodb.net:27017","timestamp":"2025-06-30 11:14:42"}
